@@ -1,0 +1,9 @@
+:root {
+    --primaria: #335d7c;
+}
+
+* {
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
