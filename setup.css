@@ -1,5 +1,16 @@
 :root {
-    --primaria: #335d7c;
+    --primaria: #256CAB;
+    --primaria_d1: #0759A3;
+    --primaria_d2: #034A89;
+    --primaria_l1: #4F7EA8;
+    --primaria_l2: #91A2B1;
+    --secundaria: #FFEE29;
+    --secundaria_d1: #FCE800;
+    --secundaria_d2: #D4C300;
+    --secundaria_l1: #FFF36D;
+    --secundaria_l2: #FFFBCE;
+    --terciaria: #E7255C;
+    --quartenaria: #6729B2;
 }
 
 * {
